@@ -7,7 +7,7 @@ Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan 
 
 1) Başla butonuyla oyuna başla.
 2) Senin Sayın Bu Olabilir mi? kısmında verilen tahminde;  <br/>
-Basamağı ve değeri doğru sayılar varsa o kadar + ipucu gir.
+Basamağı ve değeri doğru sayılar varsa o kadar + ipucu gir.<br/>
 Basamağı yanlış ama değeri doğru sayılar varsa o kadar - ipucu gir.
 3) İpucuları girince İpucu Tamam!'a tıkla.
 4) Oyunun tuttuğu sayıyı bulmak için Senin Tahminin kısmına bir tahmin gir.
