@@ -5,7 +5,14 @@ Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan 
 
 # Oynanış
 
-
+1) Başla butonuyla oyuna başla
+2) Senin Sayın Bu Olabilir mi? kısmında verilen tahminde;
+~Basamağı ve değeri doğru sayılar varsa o kadar + ipucu gir.
+~Basamağı yanlış ama değeri doğru sayılar varsa o kadar - ipucu gir.
+3) İpucuları girince İpucu Tamam!'a tıkla.
+4) Oyunun tuttuğu sayıyı bulmak için Senin Tahminin kısmına bir tahmin gir.
+5) Hem yeni tahmin almak hem yeni tahmin vermek için Tahmit Et'e tıkla.
+6) Sonraki tahmininde benzer şekilde sana verilen ipucudan yararlan.
 
 # Örnek Ekran Çıktısı
 <a href="https://ibb.co/K5jLhWt"><img src="https://i.ibb.co/6yR1wFK/ornek-ss.png" alt="ornek-ss" border="0"></a><br />
