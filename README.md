@@ -5,7 +5,7 @@ Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan 
 
 # Oynanış
 
-1) Başla butonuyla oyuna başla
+1) Başla butonuyla oyuna başla.
 2) Senin Sayın Bu Olabilir mi? kısmında verilen tahminde;
 ~Basamağı ve değeri doğru sayılar varsa o kadar + ipucu gir.
 ~Basamağı yanlış ama değeri doğru sayılar varsa o kadar - ipucu gir.
@@ -14,7 +14,7 @@ Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan 
 5) Hem yeni tahmin almak hem yeni tahmin vermek için Tahmit Et'e tıkla.
 6) Sonraki tahmininde benzer şekilde sana verilen ipucudan yararlan.
 
--Kurallara oyun sırasında erişmek iin ? butonuna tıkla
+-Kurallara oyun sırasında erişmek için ? butonuna tıklayabilirsiniz.
 
 # Kurulum
 
@@ -30,10 +30,10 @@ Ya da final_oyun/final_oyun/bin/debug/final_oyun.exe'yi açarak uygulamayı dire
 Kullanıcının girdiği +/- ipuçlarının büyüklükleri toplamı 4'ü geçerse geçersiz ipucu vermiş olur ve tekrar ipucu vermesi istenir.
 
 Bunun dışında kullanıcının ipuçlarını doğru vermesi beklenmektedir.
-Kullanıcının aklındaki sayı 1234 ve yazılımın tahmini 1256 olduğunda kullanıcı +1,-1 gibi yanlış bir tahmin verdiğinde yazılım çalışmayacaktır!
+Kullanıcının aklındaki sayı 1234 ve yazılımın tahmini 1256 olduğunda kullanıcı +1,-1 gibi yanlış bir tahmin verdiğinde yazılım ilerki adımlarda çalışmayacaktır!
 
-Kullanıcı yazılımın sayısını tahmin ederken girdiği sayının rakamları farklı 4 basamaklı bir sayı olup olmadığı kontrol edilmektedir.
-Eğer geçerli bir tahmin girmediyse başka bir tahmin girmesi istenmektedir.
+Kullanıcının yazılımın sayısını tahmin etmek için girdiği sayının rakamları farklı 4 basamaklı bir sayı olup olmadığı kontrol edilmektedir.
+Eğer geçerli bir tahmin girilmediyse başka bir tahmin girmesi istenmektedir.
 
 
 # Örnek Ekran Çıktısı
