@@ -6,7 +6,7 @@ Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan 
 # Oynanış
 
 1) Başla butonuyla oyuna başla.
-2) Senin Sayın Bu Olabilir mi? kısmında verilen tahminde;
+2) Senin Sayın Bu Olabilir mi? kısmında verilen tahminde;  <br/>
 Basamağı ve değeri doğru sayılar varsa o kadar + ipucu gir.
 Basamağı yanlış ama değeri doğru sayılar varsa o kadar - ipucu gir.
 3) İpucuları girince İpucu Tamam!'a tıkla.
