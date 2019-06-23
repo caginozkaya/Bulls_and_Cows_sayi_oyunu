@@ -13,6 +13,7 @@ Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan 
 4) Oyunun tuttuğu sayıyı bulmak için Senin Tahminin kısmına bir tahmin gir.
 5) Hem yeni tahmin almak hem yeni tahmin vermek için Tahmit Et'e tıkla.
 6) Sonraki tahmininde benzer şekilde sana verilen ipucudan yararlan.
+7) Kaybettiğinde, kazandığında ya da yeniden oynamak istediğinde Tekrar Oyna butonuna tıkla.
 
 -Kurallara oyun sırasında erişmek için ? butonuna tıklayabilirsiniz.
 
