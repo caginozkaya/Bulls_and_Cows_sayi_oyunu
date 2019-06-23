@@ -14,5 +14,10 @@ Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan 
 5) Hem yeni tahmin almak hem yeni tahmin vermek için Tahmit Et'e tıkla.
 6) Sonraki tahmininde benzer şekilde sana verilen ipucudan yararlan.
 
+-Kurallara oyun sırasında erişmek iin ? butonuna tıkla
+
+# Kurulum
+final
+
 # Örnek Ekran Çıktısı
 <a href="https://ibb.co/K5jLhWt"><img src="https://i.ibb.co/6yR1wFK/ornek-ss.png" alt="ornek-ss" border="0"></a><br />
