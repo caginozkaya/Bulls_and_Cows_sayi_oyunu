@@ -1,0 +1,10 @@
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\bin\Debug\final_oyun.exe.config
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\bin\Debug\final_oyun.exe
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\bin\Debug\final_oyun.pdb
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\obj\Debug\final_oyun.csprojResolveAssemblyReference.cache
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\obj\Debug\final_oyun.Form1.resources
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\obj\Debug\final_oyun.Properties.Resources.resources
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\obj\Debug\final_oyun.csproj.GenerateResource.Cache
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\obj\Debug\final_oyun.csproj.CoreCompileInputs.cache
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\obj\Debug\final_oyun.exe
+C:\Users\Cagin\source\repos\final_oyun\final_oyun\obj\Debug\final_oyun.pdb
