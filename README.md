@@ -17,7 +17,24 @@ Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan 
 -Kurallara oyun sırasında erişmek iin ? butonuna tıkla
 
 # Kurulum
-final
+
+Uygulama Visual Studio 2017'de bir C# form uygulaması olarak geliştirilmiştir. 
+final_oyun/final_oyun.sln dosyasını Visual Studio ile açarak yazılımı çalıştırabilirsiniz.
+
+Ya da projenize Form1.cs, Form1.Designer.cs ve Program.cs'i dahil ederek derleyebilirsiniz.
+
+Ya da final_oyun/final_oyun/bin/debug/final_oyun.exe'yi açarak uygulamayı direkt çalıştırabilirsiniz.
+
+# Kullanıcı Input Kontrolleri
+
+Kullanıcının girdiği +/- ipuçlarının büyüklükleri toplamı 4'ü geçerse geçersiz ipucu vermiş olur ve tekrar ipucu vermesi istenir.
+
+Bunun dışında kullanıcının ipuçlarını doğru vermesi beklenmektedir.
+Kullanıcının aklındaki sayı 1234 ve yazılımın tahmini 1256 olduğunda kullanıcı +1,-1 gibi yanlış bir tahmin verdiğinde yazılım çalışmayacaktır!
+
+Kullanıcı yazılımın sayısını tahmin ederken girdiği sayının rakamları farklı 4 basamaklı bir sayı olup olmadığı kontrol edilmektedir.
+Eğer geçerli bir tahmin girmediyse başka bir tahmin girmesi istenmektedir.
+
 
 # Örnek Ekran Çıktısı
 <a href="https://ibb.co/K5jLhWt"><img src="https://i.ibb.co/6yR1wFK/ornek-ss.png" alt="ornek-ss" border="0"></a><br />
