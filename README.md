@@ -30,11 +30,11 @@ Ya da final_oyun/final_oyun/bin/debug/final_oyun.exe'yi açarak uygulamayı dire
 
 Kullanıcının girdiği +/- ipuçlarının büyüklükleri toplamı 4'ü geçerse geçersiz ipucu vermiş olur ve tekrar ipucu vermesi istenir.
 
-Bunun dışında kullanıcının ipuçlarını doğru vermesi beklenmektedir.
+Bunun dışında kullanıcının ipucularını doğru vermesi beklenmektedir.
 Kullanıcının aklındaki sayı 1234 ve yazılımın tahmini 1256 olduğunda kullanıcı +1,-1 gibi yanlış bir tahmin verdiğinde yazılım ilerki adımlarda çalışmayacaktır!
 
 Kullanıcının yazılımın sayısını tahmin etmek için girdiği sayının rakamları farklı 4 basamaklı bir sayı olup olmadığı kontrol edilmektedir.
-Eğer geçerli bir tahmin girilmediyse başka bir tahmin girmesi istenmektedir.
+Eğer koşullara uygun bir tahmin girilmediyse başka bir tahmin girmesi istenmektedir.
 
 
 # Örnek Ekran Çıktısı
