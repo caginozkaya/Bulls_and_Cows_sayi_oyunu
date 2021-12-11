@@ -1,5 +1,5 @@
 # Sayı Tahmin Oyunu (Bulls and Cows)
-Bulls and Cows
+
 
 Geliştirilmiş olan yazılım bir bilgisayar ile kullanıcı arasında oynanan bir oyundur. "Bulls and Cows" isimli oyunun bir benzeridir. Yazılım ve kullanıcı rakamları birbirinden farklı 4 basamaklı bir sayı tutarlar. Yazılım, kullanıcının tahmin ettiği sayıyı bulmaya, kullanıcı da bilgisayarın tahmin ettiği sayıyı bulmaya çalışır. Tahminler sonucunda tutulan sayı ile ilgili ipuçları verilir. Eğer tahmin edilen sayı içinde tutulan sayının rakamlarında varsa ve basamak değeri doğruysa “+” değer olarak ipucu verilir, basamak değeri yanlış ise “-” değer ipucu olarak verilir. Örneğin bilgisayar 5483 sayısını tuttuğunda ve kullanıcı 3468 tahmini yaptığında 4 sayısının basamak değeri doğru olduğu için +1, 3 ve 8 sayısının basamak değeri yanlış olduğu için -2, 5 sayısı tahminde olmadığı için 0 dönülecektir.  
 
